@@ -161,23 +161,6 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
 - Modelagem de soluções utilizando LLMs, RAG e APIs
 - Transformação de necessidades não estruturadas em planos executáveis
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img
-    alt="Estatísticas do GitHub"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    alt="Tecnologias mais utilizadas"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-  />
-</p>
 
 ---
 
