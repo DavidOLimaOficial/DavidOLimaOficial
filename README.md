@@ -116,6 +116,36 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
 
 ---
 
+### 🚀 Produtos em Desenvolvimento
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏋️ Movva Treino Inteligente</h3>
+      <p>
+        Aplicativo de treinos personalizados, acompanhamento da evolução e orientação com apoio de inteligência artificial.
+      </p>
+      <p><strong>Status:</strong> MVP em desenvolvimento</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎷 Orion Sax Studio</h3>
+      <p>
+        Aplicativo para transposição de notas musicais e sugestões de execução para saxofones e outros instrumentos de sopro.
+      </p>
+      <p><strong>Status:</strong> MVP funcional</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📅 Orion Schedule AI</h3>
+      <p>
+        Aplicativo inteligente para análise de cronogramas de implantação de ERPs e projetos de serviços.
+      </p>
+      <p><strong>Status:</strong> MVP em desenvolvimento</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🎯 Competências
 
 - Planejamento e gestão de projetos de tecnologia
