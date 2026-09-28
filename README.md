@@ -27,7 +27,7 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
     />
   </a>
 
-  <a href="https://www.instagram.com/davidolimaoficial/" target="_blank">
+  <a href="https://www.instagram.com/orionintelligence.io" target="_blank">
     <img
       alt="Instagram"
       title="Siga-me no Instagram"
@@ -35,13 +35,14 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
     />
   </a>
 
-  <a href="https://www.tiktok.com/@davidolimaoficial" target="_blank">
+  <a href="https://www.instagram.com/davidolimaoficial/" target="_blank">
     <img
-      alt="TikTok"
-      title="Siga-me no TikTok"
-      src="https://img.shields.io/badge/TikTok-@davidolimaoficial-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+      alt="Instagram"
+      title="Siga-me no Instagram"
+      src="https://img.shields.io/badge/Instagram-@davidolimaoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
+  
 
   <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
     <img
