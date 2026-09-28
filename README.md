@@ -1,5 +1,3 @@
-<img align="right" src="./assets/DavidLima.png" alt="Foto de David Lima" width="240"/>
-
 <p align="left">
 <font size="6"><strong>👨‍💻 David Lima</strong></font>
 </p>
