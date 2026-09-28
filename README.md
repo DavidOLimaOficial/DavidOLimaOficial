@@ -29,26 +29,25 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
 
   <a href="https://www.instagram.com/orionintelligence.io" target="_blank">
     <img
-      alt="Instagram"
-      title="Siga-me no Instagram"
+      alt="Instagram Orion Intelligence"
+      title="Siga a Orion Intelligence no Instagram"
       src="https://img.shields.io/badge/Instagram-@orionintelligence.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
 
   <a href="https://www.instagram.com/davidolimaoficial/" target="_blank">
     <img
-      alt="Instagram"
+      alt="Instagram David Lima"
       title="Siga-me no Instagram"
       src="https://img.shields.io/badge/Instagram-@davidolimaoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-  
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
+  <a href="https://github.com/DavidOLimaOficial?tab=followers" target="_blank">
     <img
       alt="Seguidores no GitHub"
       title="Siga-me no GitHub"
-      src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?style=for-the-badge&logo=github&label=Seguidores&color=236ad3"
+      src="https://img.shields.io/github/followers/DavidOLimaOficial?style=for-the-badge&logo=github&label=Seguidores&color=236ad3"
     />
   </a>
 </p>
@@ -117,30 +116,104 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
 
 ---
 
-### 🚀 Produtos em Desenvolvimento
+### 🚀 Produtos e Aplicações Orion
+
+Soluções digitais desenvolvidas para transformar necessidades de negócio em produtos funcionais, combinando estratégia, gestão de produtos, tecnologia, automação e inteligência artificial.
+
+#### 🧪 Produtos e Apps em Testes
+
+##### 👤 Aplicações B2C
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🏋️ Movva Treino Inteligente</h3>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="./assets/Movva.png" alt="Logo Orion Movva" width="180"/>
+      <h3>Orion Movva</h3>
       <p>
-        Aplicativo de treinos personalizados, acompanhamento da evolução e orientação com apoio de inteligência artificial.
+        Aplicativo inteligente para criação de treinos personalizados, acompanhamento da evolução física e gestão da rotina de exercícios.
       </p>
-      <p><strong>Status:</strong> MVP em desenvolvimento</p>
+      <p><strong>Status:</strong> MVP em testes</p>
+      <br/>
     </td>
-    <td width="33%" valign="top">
-      <h3>🎷 Orion Sax Studio</h3>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="./assets/OrionSaxStudio.png" alt="Logo Orion Sax Studio" width="180"/>
+      <h3>Orion Sax Studio</h3>
       <p>
-        Aplicativo para transposição de notas musicais e sugestões de execução para saxofones e outros instrumentos de sopro.
+        Aplicativo para transposição de notas, organização de cifras e apoio à execução musical para saxofones e outros instrumentos de sopro.
       </p>
-      <p><strong>Status:</strong> MVP funcional</p>
+      <p><strong>Status:</strong> MVP funcional em testes</p>
+      <br/>
     </td>
-    <td width="33%" valign="top">
-      <h3>📅 Orion Schedule AI</h3>
+  </tr>
+</table>
+
+<br/>
+
+##### 🏢 Aplicações B2B
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="./assets/OrionCRMPartner.png" alt="Logo Orion CRM Partner" width="170"/>
+      <h3>Orion CRM Partner</h3>
       <p>
-        Aplicativo inteligente para análise de cronogramas de implantação de ERPs e projetos de serviços.
+        Plataforma para gestão de leads, parceiros, indicações, oportunidades comerciais, pipeline e distribuição de comissões.
       </p>
-      <p><strong>Status:</strong> MVP em desenvolvimento</p>
+      <p><strong>Status:</strong> MVP em testes</p>
+      <br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="./assets/OrionLeads.png" alt="Logo Orion Lead Intelligence" width="170"/>
+      <h3>Orion Lead Intelligence™</h3>
+      <p>
+        Plataforma de inteligência comercial para análise, enriquecimento e priorização de leads com IA e integração planejada com a Econodata.
+      </p>
+      <p><strong>Status:</strong> MVP em testes</p>
+      <br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="./assets/OrionLogistics.png" alt="Logo Orion Logistics" width="170"/>
+      <h3>Orion Logistics</h3>
+      <p>
+        Plataforma para gestão de operações logísticas, motoristas, veículos, entregas, ocorrências, rastreamento e indicadores de desempenho.
+      </p>
+      <p><strong>Status:</strong> MVP em testes</p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+#### 🔍 Produtos e Apps em Discovery
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>📑 Orion Proposal Intelligence™</h3>
+      <p>
+        Solução inteligente para geração de esboços de propostas comerciais a partir das necessidades, características e contexto de cada lead.
+      </p>
+      <p><strong>Status:</strong> Discovery</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>👨‍⚖️ Orion Legal Intelligence™</h3>
+      <p>
+        Plataforma de inteligência artificial para apoiar advogados e escritórios na análise de casos e elaboração de documentos jurídicos.
+      </p>
+      <p><strong>Status:</strong> Discovery</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🧠 Orion ERP Intelligence™</h3>
+      <p>
+        Camada de inteligência artificial aplicada a ERPs para análise de dados, identificação de oportunidades, geração de alertas e apoio à decisão.
+      </p>
+      <p><strong>Status:</strong> Discovery</p>
     </td>
   </tr>
 </table>
@@ -162,7 +235,6 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
 - Modelagem de soluções utilizando LLMs, RAG e APIs
 - Transformação de necessidades não estruturadas em planos executáveis
 
-
 ---
 
 ### 🚀 Áreas de interesse
@@ -175,3 +247,4 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
 📱 Produtos digitais e aplicações Low Code
 ☁️ APIs, integrações e soluções em nuvem
 🔭 Computação Quântica
+```
