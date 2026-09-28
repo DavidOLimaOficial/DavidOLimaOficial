@@ -31,7 +31,7 @@ Atuo conectando estratégia, tecnologia, processos e pessoas para transformar de
     <img
       alt="Instagram"
       title="Siga-me no Instagram"
-      src="https://img.shields.io/badge/Instagram-@davidolimaoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-@orionintelligence.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
 
